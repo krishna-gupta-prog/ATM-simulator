@@ -1,2 +1,7 @@
-# ATM-simulator
-This is my python program of mini ATM . This program matches user's data stored in bank , and perform basic functions like DEPOSITE , WITHDRAW  and CHECKS BALANCE.
+.                                                I M               KRISHNA GUPTA            AN ASPIRING PROGRAMMER.
+.                                                         IM A SCHOOL STUDENT , AND A BEGINNER IN CODING .
+.                                                                            IM 16 .
+
+
+
+--------------------                                                        THANK YOU                                                               ------------------------------
